@@ -51,7 +51,10 @@ def Main(dictionary):
         if "," in response.text:
             print("Password found!:", password)
             break
-
+        else:
+            print("No password found.")
+            break
+        
 if __name__ == "__main__":
     print("Enter dictionary: ")
     dictionary = filedialog.askopenfilename()
