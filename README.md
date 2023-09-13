@@ -1,5 +1,5 @@
 # GDAccountRecover
-Account Recover for the game Geometry Dash, it uses brute force dictionary and free proxies (for now).
+Account Recover for the game Geometry Dash, it uses brute force dictionary, doesn't use proxies (for now).
 
 # Download
 You can download it [here.](https://github.com/GDAccountRecover/GDAccountRecover/releases)
