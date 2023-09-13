@@ -13,7 +13,7 @@ My plan is to get always-bypassing boomlings proxies. Calloc is developing an AP
 # How to use
 You need to create a file, can be txt or whatever it can be read by ``open()`` function, in there you need to put all the passwords you remember. Alternatively you can download a bruteforce dictionary from internet like rocksyou and use it.
 
-The example of the interior of the txt:
+The example of the interior of the file:
 ```
 Password 1
 Password 2
