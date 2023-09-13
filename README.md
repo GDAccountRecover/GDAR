@@ -16,7 +16,6 @@ Password 1
 Password 2
 Password 3
 ...
-
 ```
 Then open the program, it will prompt you to select the dictionary file, select it.
 Then it will ask you to enter the username of the account you want to recover, write it and press Enter.
