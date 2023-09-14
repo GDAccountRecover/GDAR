@@ -14,14 +14,9 @@ def Main(dictionary):
     # with open(proxies, 'r') as f:
     #     lproxies = f.read().splitlines()
 
-    try:
-        if(dictionary):
-            with open(dictionary, "r") as f:
-                for line in f:
-                    passwords.append(line.strip())
-
-    except(Exception):
-        print("No file found in that path, make sure you put the full path.")
+    with open(dictionary, "r") as f:
+        for line in f:
+            passwords.append(line.strip())
 
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.0.0 Safari/537.36"
