@@ -2,7 +2,7 @@
 Account Recover for the game Geometry Dash, it uses brute force dictionary, doesn't use proxies (for now).
 
 # Download
-You can download it [here.](https://github.com/GDAccountRecover/GDAccountRecover/releases)
+You can download an executable [here.](https://github.com/GDAccountRecover/GDAccountRecover/releases)
 
 # History
 The project was started by me and my "friend" called RadzMod (Now Tragerr (Idk now.)). Then we stop talking for a while some days after, recently a user called Calloc got nuked by my "friend", exposing his IP, nuking both discords servers (normal and backup) and now i just want to cut links with him. So i re-did the project with my own code, because I formatted my PC 2 days ago, and I lost every Python code i had.
