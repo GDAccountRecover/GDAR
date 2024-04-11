@@ -5,7 +5,7 @@ Account Recover for Geometry Dash, it uses brute force dictionary.
 You can download an executable [here.](https://github.com/GDAccountRecover/GDAccountRecover/releases)
 
 # TODO
-- [ ] Do a rewrite.
+- [x] Do a rewrite.
 - [ ] GUI.
 - [ ] Proxies.
 - [ ] Included proxies.
