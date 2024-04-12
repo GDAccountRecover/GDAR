@@ -52,8 +52,4 @@ class Recover():
                     break
 
 if __name__ == "__main__":
-
-    recover = Recover()
-    file_path = filedialog.askopenfilename(title="Select a Text File", filetypes=[("Text files", "*.txt")])
-
-    recover.recover("rV4n", file_path)
+    Recover()

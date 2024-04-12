@@ -2,7 +2,7 @@
 Account Recover for Geometry Dash, it uses brute force dictionary.
 
 # Download
-You can download an executable [here.](https://github.com/GDAccountRecover/GDAccountRecover/releases)
+Currently doing a rewrite.
 
 # TODO
 - [x] Do a rewrite.
@@ -13,7 +13,7 @@ You can download an executable [here.](https://github.com/GDAccountRecover/GDAcc
 # How to use
 You need to create a file, can be a `txt` file or whatever it can be read by ``open()`` function, in there you need to put all the passwords you remember. Alternatively you can download a bruteforce dictionary from internet like rockyou and use it.
 
-The example of the interior of the file:
+Example of the interior of the file:
 ```
 Password 1
 Password 2
